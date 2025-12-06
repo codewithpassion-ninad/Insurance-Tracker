@@ -1,0 +1,26 @@
+ABC Insurance – Policy Knowledge Base
+
+Plan Types:
+
+Silver Plan
+- Coverage Limit: ₹500,000
+- Includes: Basic hospitalization, general surgeries, doctor consultations
+- Excludes: Cosmetic procedures, non-essential treatments
+- Co-pay: 10%
+
+Gold Plan
+- Coverage Limit: ₹1,600,000
+- Includes: All Silver benefits + specialist consultations + advanced surgeries
+- Excludes: Experimental treatments, out-of-network facilities
+- Co-pay: 5%
+
+Platinum Plan
+- Coverage Limit: ₹2,200,000
+- Includes: All Gold benefits + ICU, premium room, chronic care management
+- Excludes: Non-medically necessary treatments
+- Co-pay: 0%
+
+General Rules:
+- Pre-authorization required for planned surgeries.
+- Claims exceeding plan limits must be rejected.
+- All treatments must be medically necessary and properly documented.
